@@ -1,0 +1,10 @@
+# data & security files (sensitive & large)
+*.txt
+*.xls
+*.xlsx
+*.csv
+*.npy
+
+#folders
+/trash
+/misc
