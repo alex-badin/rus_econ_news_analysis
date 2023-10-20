@@ -1,10 +1,14 @@
 # data & security files (sensitive & large)
+.DS_Store
+.gitignore
 *.txt
 *.xls
 *.xlsx
 *.csv
 *.npy
+*.pkl
 
 #folders
 /trash
 /misc
+/old
